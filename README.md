@@ -3,7 +3,6 @@ Actuator
 ---
 how: `starter-actuator`					
 
-<br>
 `/health`
 `/info`
 `/beans`
